@@ -122,7 +122,7 @@ tpl: thankyou}
 
 >- Significant, but small effect for white-black workplace segregation
 >- No significant effects for white-hispanic workplace segregation
->- Measures of black population concentration and residenital segregation fail to gain significance
+>- Measures of ethnoracial threat and residenital segregation fail to gain significance
 
 ---{
 tpl: thankyou}
@@ -140,7 +140,7 @@ tpl: thankyou}
 
 ---{
 tpl: thankyou,
-social: [{title: chris, href: "cerees@albany.edu"}, {title: web, href: "http://www.albany.edu/chsr/"}, {title: slides, href: "http://cerees.github.io/everify_diffusion_slides"}]
+social: [{title: chris, href: "cerees@albany.edu"}, {title: web, href: "http://www.albany.edu/chsr/"}, {title: slides, href: "http://cerees.github.io/we_can_work_it_out_slides"}]
 }
 
 ## Thank You!
