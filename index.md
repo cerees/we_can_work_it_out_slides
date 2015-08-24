@@ -11,6 +11,7 @@ highlighter : highlight.js
 knit : slidify::knit2slides
 widgets: [mathjax, bootstrap, quiz]
 #github: {user: cerees, repo: referral_procedures_slides}
+mode: selfcontained
 hitheme: tomorrow
 assets: {js: 'test.js'}
 
@@ -119,9 +120,9 @@ tpl: thankyou}
 
 ## <span style="color:gold; text-shadow:-.5px -.5px 0 #000, .5px -.5px 0 #000,-.5px .5px 0 #000,.5px .5px 0 #000;">WHAT</span> I found?
 
->- Significant, but small effects for white-black workplace segregation
+>- Significant, but small effect for white-black workplace segregation
 >- No significant effects for white-hispanic workplace segregation
->- Measures of black population concentraion and residenital segregation fail to gain significance
+>- Measures of black population concentration and residenital segregation fail to gain significance
 
 ---{
 tpl: thankyou}
